@@ -102,13 +102,7 @@ The default evaluator selects up to **100 geographically nearest reference entri
 
 Scores are percentages. This table records the manuscript results; it is not a new evaluation performed by the installation commands above. Use the corresponding checkpoints and logged configurations for exact reproduction.
 
-| City | Satellite R@1 | Satellite L@50 | OSM R@1 | OSM L@50 |
-|---|---:|---:|---:|---:|
-| New York | 53.67 | 55.75 | 62.08 | 65.17 |
-| Brisbane | 47.50 | 51.00 | 49.67 | 52.33 |
-| Tokyo | 37.75 | 41.92 | 37.00 | 42.08 |
-
-![image-20261015174232577](D:\02_Papers\3-CVG-Text\开源代码\image-20261015174232577.png)
+![image-20261015174232577](.\image-20261015174232577.png)
 
 ## Acknowledgments
 
